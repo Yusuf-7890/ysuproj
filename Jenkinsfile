@@ -1,6 +1,6 @@
     pipeline {
         environment {
-            registry = "mohammadathar/cryptoapp"
+            registry = "Yusuf/cryptoapp"
             registryCredential = 'dockerhub_credentials'
             dockerImage = ''
         }
